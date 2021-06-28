@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-gutentag
+gutentag noob
 Use the left arrow to go back!
